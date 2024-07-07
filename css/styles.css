@@ -9,7 +9,6 @@ body {
     margin: 0;
     font-family: "Open Sans", sans-serif;
     background-color: #efeff5;
-    /* background-color: #fbf9de; */
     color: #333;
     font-size: 16px;
 }
@@ -44,7 +43,6 @@ h1 {
     text-align: center;
     font-family: "Oswald", sans-serif;
     background-color: #28283e;
-    /* background-color: #483978; */
     color: #fff;
     text-transform: uppercase;
     border-top-left-radius: 20px;
@@ -110,7 +108,6 @@ ul {
     flex-wrap: wrap;
     justify-content: center;
     background-color: #28283e;
-    /* background-color: #483978; */
     color: white;
     font-size: 18px;
     padding-bottom: 2em;
@@ -189,7 +186,6 @@ section.repo-data {
 
 .repo-list h3:hover {
     background-color: #fff2e6;
-    /* background-color: #eee9ff; */
     cursor: pointer;
 }
 
